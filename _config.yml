@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "Micro SunChip's blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Every CLOUD technology for Small-Medium Business" # site tagline that appears below site title in masthead
 name                     : "sunpark"
 description              : "My technology blog."
 url                      : "https://microsunchip.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
