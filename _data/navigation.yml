@@ -1,5 +1,5 @@
 main:
-  - title: "Archive"
-    url: /year-archive/
+  - title: "Docker for SMB"
+    url: /docker-story/
   - title: "Category"
     url: /categories/
