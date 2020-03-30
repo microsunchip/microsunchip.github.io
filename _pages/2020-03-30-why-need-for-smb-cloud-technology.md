@@ -1,7 +1,7 @@
 ---
 title: "Why need for smb cloud technology!"
 date: 2020-03-30 월요일 17:17:00
-category: Docker for SMB
+category: Docker
 ---
 
 ## 클라우드의 필요성
