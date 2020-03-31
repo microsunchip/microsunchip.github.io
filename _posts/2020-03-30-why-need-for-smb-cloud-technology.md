@@ -1,5 +1,5 @@
 ---
-title: Why need for smb cloud technology!2
+title: Why need for smb cloud technology!4
 date: '2020-03-30 월요일 17:17:00'
 category: Docker2
 published: true
